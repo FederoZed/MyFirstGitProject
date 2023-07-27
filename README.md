@@ -1,2 +1,0 @@
-# MyFirstGitProject
-## First Try Git
